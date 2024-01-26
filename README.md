@@ -1,5 +1,5 @@
 # EDA-On-Youtube-Data
-https://user-images.githubusercontent.com/130181481/233555419-911058ff-6e3c-4fee-93de-9502374ceed3.jpeg
+![alt text](https://user-images.githubusercontent.com/130181481/233555419-911058ff-6e3c-4fee-93de-9502374ceed3.jpeg)
 ## Domain: Social media
 ## Context and Content:
 In a fairly recent move by Youtube, it announced the decision to hide the
@@ -19,8 +19,8 @@ for the USA, Canada, and Great Britain.
 collected just before December 13. The information was collected by videos that had been trending in
 the USA, Canada, and Great Britain for a year prior
 ## Attribute Information:
-https://user-images.githubusercontent.com/130181481/233554787-9ddfaf90-0247-4313-991d-6bab86ab6354.png
-https://user-images.githubusercontent.com/130181481/233555058-08705272-3e6f-4ee8-9380-e1d70856de2e.png
+![alt text](https://user-images.githubusercontent.com/130181481/233554787-9ddfaf90-0247-4313-991d-6bab86ab6354.png)
+![alt text](https://user-images.githubusercontent.com/130181481/233555058-08705272-3e6f-4ee8-9380-e1d70856de2e.png)
 
 ## Questions:
 - Q1) Import required libraries and read the provided dataset (youtube_dislike_dataset.csv) and retrieve top 5 and bottom 5 records.
