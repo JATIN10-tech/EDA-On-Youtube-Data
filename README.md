@@ -20,6 +20,7 @@ collected just before December 13. The information was collected by videos that 
 the USA, Canada, and Great Britain for a year prior
 ## Attribute Information:
 ![alt text](https://user-images.githubusercontent.com/130181481/233554787-9ddfaf90-0247-4313-991d-6bab86ab6354.png)
+
 ![alt text](https://user-images.githubusercontent.com/130181481/233555058-08705272-3e6f-4ee8-9380-e1d70856de2e.png)
 
 ## Questions:
